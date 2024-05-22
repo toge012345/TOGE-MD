@@ -1,8 +1,8 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩8ꫂ<br></h1>
+<h1 align="center">KING B2K BOT<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/cLtCXVm/cheemspic.jpg" width="540" height="280" />
+<img src="https://i.imgur.com/ZBAGXt9.jpeg" width="540" height="280" />
 </p>
 
 <p align="center">

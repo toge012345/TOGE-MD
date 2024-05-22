@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['919654970780'] //ur owner number
+global.ownernomer = "919654970780" //ur owner number2
+global.ownername = "KING B2K ✓" //ur owner name
+global.ytname = "Danielrajput" //ur yt chanel name
+global.socialm = "GitHub: DANIELRAJPUT" //ur github or insta name
+global.location = "India, Delhi, Shahdra" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.botname = "KING B2K ✓"
+global.ownernumber = '919654970780'
+global.ownername = 'KING B2K ✓'
+global.ownerNumber = ["919654970780@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.wagc = "https://chat.whatsapp.com/Jbl8ObPO5SeAdVhSQyhCCk"
+global.themeemoji = '🥵'
+global.wm = "KING B2K ✓ Bot Inc."
+global.botscript = 'https://github.com/DANIELRAJPUT/CheemsBot-MD6' //script link
+global.packname = "KING B2K ✓"
+global.author = ""
+global.creator = "919654970780@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'Lo Babu!😚', 
 }
 
 let file = require.resolve(__filename)
